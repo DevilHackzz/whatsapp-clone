@@ -74,9 +74,14 @@ p.txt1::first-letter {
 }
 
 .Qr {
-    position: relative;
+/*     position: relative;
     float: right;
-    bottom: 240px;
+    bottom: 240px; */
+    
+    position: absolute;
+    float: right;
+    top: 4rem;
+    right: 5rem;
 }
 
 a {
