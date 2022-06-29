@@ -80,6 +80,7 @@ p.txt1::first-letter {
 }
 
 a {
+    text-decoration: none;
     color: #088069;
     font-size: 14px;
     position: relative;
