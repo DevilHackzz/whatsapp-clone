@@ -70,6 +70,7 @@ p.txt1::first-letter {
     font-family: sans-serif;
     line-height: 3em;
     font-size: 16px;
+    color: #3b4a54;
 }
 
 .Qr {
@@ -79,7 +80,7 @@ p.txt1::first-letter {
 }
 
 a {
-    color: #055544;
+    color: #088069;
     font-size: 14px;
     position: relative;
     left: -23px;
