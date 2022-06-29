@@ -118,5 +118,6 @@ a {
         font-size: 2em;
         color: white;
         transform: translatey(-60%);
+        text-shadow: 3px 03px 5px #000000;
     }
 }
