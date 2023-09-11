@@ -1,6 +1,6 @@
 # WhatsApp UI Clone
 
-![WhatsApp UI Clone Screenshot](https://devilhackzz.github.io/screenshots/screenshot.png) <!-- Add a screenshot of your WhatsApp UI Clone here -->
+![WhatsApp UI Clone Screenshot](https://devilhackzz.github.io/whatsapp-clone/screenshots/screenshot.png) <!-- Add a screenshot of your WhatsApp UI Clone here -->
 
 ## Overview
 
