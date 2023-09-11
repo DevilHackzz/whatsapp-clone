@@ -46,8 +46,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Please ensure your code follows good coding practices and is well-documented.
 
-## License
-
 ---
 
 Enjoy exploring and customizing the WhatsApp UI Clone! If you have any questions or encounter issues, feel free to [create an issue](https://github.com/devilhackzz/whatsapp-clone/issues) in this repository.
